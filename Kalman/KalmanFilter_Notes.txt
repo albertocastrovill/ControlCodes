@@ -1,0 +1,7 @@
+Kalman Filter has two steps:
+    - Prediction
+    Uses control commands
+
+
+    - Correction
+    Uses sensor observations
