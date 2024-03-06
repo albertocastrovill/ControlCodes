@@ -5,3 +5,8 @@ Kalman Filter has two steps:
 
     - Correction
     Uses sensor observations
+
+
+
+Extended Kalman Filter : 
+Uses Taylor series to linearize before the Kalman Filter
